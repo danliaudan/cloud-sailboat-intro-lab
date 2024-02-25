@@ -40,4 +40,23 @@ This is a simple list of task that gives you opportunity to start studying DevOp
   - **Note 2:** you should have access to nginx homepage via <http://ec2_instance_ip_example:8080>, so modify Security Group in advance
 - [ ] Put screen of your <http://ec2_instance_ip_example:8080> site
 
+## <a name="_j7rj8qfn1ycp">Final notes</a>
+
+In the end your repo should have something like this structure:
+.
+├── README.md
+├── python-app
+│   └──...    
+├── Terraform
+│   ├── ec2.tf
+│   ├── sg.tf
+│   └── vpc.tf
+├── Docker
+│   ├── Dockerfile
+│   └── docker-compose.yaml
+└── Bash
+    └── deploy_script.sh
+      
+  
+
 
