@@ -42,7 +42,7 @@ In the end your repo should have something like this structure:
 
       .
       ├── README.md
-      ├── python-app
+      ├── helloworld-app
       │   └──...    
       ├── Terraform
       │   ├── ec2.tf
