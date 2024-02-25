@@ -1,9 +1,5 @@
 <a name="_1ux3hpcrv11w">Демо завдання Хмарного вітрильника</a>
 
-This is a simple list of task that gives you opportunity to start studying DevOps field. To study further we offer a 3 month course for you
-
-**Note:** if you have no clue what is AWS, Terraform or other stuff - you may free to research it by yourself. This lab doesn’t check you knowledge. It’s a great opportunity to start
-
 Всім привіт! Тут для тебе ми виклали перелік простих завдань для того, щоб закласти фундамент у твоєму розвитку в девопсі. Якщо тобі ще невідомі технології, які використовуються у цих завдання - не біда, саме для цього ми і вчимося)
 
 ## <a name="_45k0k46w3epy">AWS</a>
@@ -43,6 +39,7 @@ This is a simple list of task that gives you opportunity to start studying DevOp
 ## <a name="_j7rj8qfn1ycp">Final notes</a>
 
 In the end your repo should have something like this structure:
+
       .
       ├── README.md
       ├── python-app
