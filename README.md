@@ -6,7 +6,7 @@ This is a simple list of task that gives you opportunity to start studying DevOp
 
 Всім привіт! Тут для тебе ми виклали перелік простих завдань для того, щоб закласти фундамент у твоєму розвитку в девопсі. Якщо тобі ще невідомі технології, які використовуються у цих завдання - не біда, саме для цього ми і вчимося)
 
-## <a name="_45k0k46w3epy"></a>AWS
+## <a name="_45k0k46w3epy">AWS</a>
 - [ ] Create new account on AWS 
 - [ ] Create EC2 instance (Login as admin user) with the following specifications: 
   - OS: Ubuntu  
@@ -17,7 +17,7 @@ This is a simple list of task that gives you opportunity to start studying DevOp
 - [ ] Install docker, docker-compose on EC2, put here commands that you used
 - [ ] Put here proofs that docker and docker-compose installed successfully 
 
-## <a name="_mxqcu0c8cibh"></a>Terraform 
+## <a name="_mxqcu0c8cibh">Terraform </a>
 - [ ] Install terraform on your local machine
 - [ ] Create AWS EC2 instance
   - It should has public ip
@@ -28,12 +28,13 @@ This is a simple list of task that gives you opportunity to start studying DevOp
   - Attach 10 gb disk
 - [ ] Output instance IP
 - [ ] Destroy this instance
-## <a name="_bv8m933g1ecj"></a>Containers
+- [ ] 
+## <a name="_bv8m933g1ecj">Containers</a>
 - [ ] Install docker desktop on your local machine
 - [ ] Run container with name “webapp” and image nginx, which will be accessible via 8080 port (do it on your local machine)
 - [ ] Put here command how to list docker images and container via cmd 
 
-## <a name="_j7rj8qfn1ycp"></a>Bash
+## <a name="_j7rj8qfn1ycp">Bash</a>
 - [ ] Write bash script on your local machine which will create on your recently created ec2 instance docker container 
   - **Note 1:** you need to execute code from **your local machine** **via SSH**
   - **Note 2:** you should have access to nginx homepage via <http://ec2_instance_ip_example:8080>, so modify Security Group in advance
