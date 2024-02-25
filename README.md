@@ -24,7 +24,7 @@
   - Attach 10 gb disk
 - [ ] Output instance IP
 - [ ] Destroy this instance
-- [ ] 
+
 ## <a name="_bv8m933g1ecj">Containers</a>
 - [ ] Install docker desktop on your local machine
 - [ ] Run container with name “webapp” and image nginx, which will be accessible via 8080 port (do it on your local machine)
